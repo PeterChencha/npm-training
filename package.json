@@ -1,0 +1,13 @@
+{
+  "name": "learningnpm",
+  "version": "1.0.0",
+  "description": "this is so interesting not as interesting as getting faded but it aint bad",
+  "main": "test.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
